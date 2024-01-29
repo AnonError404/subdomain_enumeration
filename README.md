@@ -5,8 +5,8 @@
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/subdomain-enumeration-tool.git
-    cd subdomain-enumeration-tool
+    git clone https://github.com/AnonError404/subdomain_enumeration.git
+    cd subdomain_enumeration
     ```
 
 2. Run the script:
