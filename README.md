@@ -7,7 +7,7 @@
 
 After this install subfinder from the below link and select the required version for linux or windows
  
-## Prerequisites  - [Subfinder](https://github.com/projectdiscovery/subfinder): 
+## Prerequisites  https://github.com/projectdiscovery/subfinder 
 
 ## Ensure that Subfinder is installed on your system. 
 
