@@ -1,5 +1,16 @@
 # subdomain_enumeration
- Subdomain Enumeration Tool  ## Overview  This Python script utilizes the Subfinder tool to perform subdomain enumeration for a given target domain.  ## Prerequisites  - [Subfinder](https://github.com/projectdiscovery/subfinder): Ensure that Subfinder is installed on your system. 
+ Subdomain Enumeration Tool 
+ ## Overview  This Python script utilizes the Subfinder tool to perform subdomain enumeration for a given target domain.  
+## Install Go and Subfinder:
+
+## Before you proceed, make sure you have Go installed on your system. https://golang.org/doc/install
+
+After this install subfinder from the below link and select the required version for linux or windows
+ 
+## Prerequisites  - [Subfinder](https://github.com/projectdiscovery/subfinder): 
+
+## Ensure that Subfinder is installed on your system. 
+
 ## Usage
 
 1. Clone the repository:
